@@ -9,6 +9,11 @@ public class Main {
 
         // gọi phương thức in phần tử
         arrInt.printArr();
+
+        // gọi phương thức in số chia hết cho nhiều số khác nhất
         arrInt.printPerfectNumber();
+
+        //
+        arrInt.printCouple();
     }
 }
